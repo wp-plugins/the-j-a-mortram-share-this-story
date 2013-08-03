@@ -3,7 +3,7 @@
 Plugin Name: The J A Mortram Share This Story
 Plugin URI: https://github.com/bigflannel/The-J-A-Mortram-Share-This-Story
 Description: Once activated, plugin adds 'Share This Story' buttons to the end of a single post before the comments. Posts can be shared on Twitter, Facebook and Google+. This plugin does not embed tags from any of the above services in your WordPress site. Instead it simply posts the page URL and any other information relevant to each network's API.
-Version: 1.03
+Version: 1.04
 Author: Mike Hartley
 Author URI: http://bigflannel.com
 License: GPL2

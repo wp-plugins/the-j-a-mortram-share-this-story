@@ -18,9 +18,16 @@ Once activated, plugin adds 'Share This Story' buttons to the end of a single po
 
 == Installation ==
 
+= For an automatic installation through WordPress =
+
+* Go to the 'Add New' plugins screen in your WordPress admin area
+* Search for 'The J A Mortram Share This Story'
+* Click 'Install Now' and activate the plugin
+* 'Share This Story' buttons are added to single post pages once the plugin is activated
+
 = For a manual installation via FTP =
 
-* Upload the `jamortram-share` directory to the `/wp-content/plugins/` directory
+* Upload the folder you download to the directory `/wp-content/plugins/`
 * Activate the plugin through the 'Plugins' screen in your WordPress admin area
 
 == Frequently Asked Questions ==
@@ -34,6 +41,12 @@ There are no settings, just activate the plugin to display the share buttons.
 1. 'Share This Story' buttons added to the end of a single post before the comments.
 
 == Changelog ==
+
+= 1.04 =
+
+August 3,2013
+
+* Amended readme text as plugin accepted into WordPress plugin repository.
 
 = 1.03 =
 
@@ -63,6 +76,10 @@ July 28, 2013
 
 == Upgrade Notice ==
 
+= 1.04 =
+
+readme update.
+
 = 1.02 =
 
 Further change in plugin title.
@@ -77,6 +94,5 @@ This functionality was removed from The J A Mortram WordPress Theme so it could 
 
 == Author ==
 
-* [Mike Hartley](mailto:mike@bigflannel.com)
-* [bigflannel](http://bigflannel.com)
+* [Mike Hartley, bigflannel](http://bigflannel.com)
 * [Plugin Home Page](https://github.com/bigflannel/The-J-A-Mortram-Share-This-Story)
