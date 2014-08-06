@@ -3,7 +3,7 @@
 Contributors: bigflannel
 Tags: The J A Mortram, social media, sharing
 Requires at least: 3.0
-Tested up to: 3.5.3
+Tested up to: 3.9.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -42,6 +42,13 @@ There are no settings, just activate the plugin to display the share buttons.
 
 == Changelog ==
 
+= 1.05 =
+
+August 6, 2014
+
+* Deleted three empty lines at end of jamortram-share.php which were causing a plugin error when the plugin was activated.
+* Amended the plugin CSS.
+
 = 1.04 =
 
 August 3,2013
@@ -50,13 +57,13 @@ August 3,2013
 
 = 1.03 =
 
-August 3,2013
+August 3, 2013
 
 * Amended src to plugin css and share graphics so not hardcoded.
 
 = 1.02 =
 
-July 30,2013
+July 30, 2013
 
 * Changed Plugin Name in jamortram-share.php to 'The J A Mortram Share This Story', removed word plugin.
 * Amended GitHub URL and Plugin Home Page listed in readme to reflect this.
@@ -75,6 +82,10 @@ July 28, 2013
 * Initial release.
 
 == Upgrade Notice ==
+
+= 1.05 =
+
+Essential update. Prevents activation error and other problems.
 
 = 1.04 =
 

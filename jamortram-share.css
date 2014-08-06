@@ -1,10 +1,17 @@
 .jam-center {
+	margin: .5em 0 0 0;
 	text-align: center;
 }
+.jam-center ul {
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.jam-center li {
+	display: inline-block;
+}
 .jam-social-share {
-	display: inline;
-	height: 2.4em;
-	width: 2.4em;
+	height: 2em;
+	width: 2em;
 }
 .jam-social-share:hover {
 	zoom: 1;
