@@ -1,0 +1,13 @@
+.jam-center {
+	text-align: center;
+}
+.jam-social-share {
+	display: inline;
+	height: 2.4em;
+	width: 2.4em;
+}
+.jam-social-share:hover {
+	zoom: 1;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
