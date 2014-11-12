@@ -42,6 +42,12 @@ There are no settings, just activate the plugin to display the share buttons.
 
 == Changelog ==
 
+= 1.07 =
+
+November 12, 2014
+
+* Placed the 'Share This Story' H3 tag in <nav class="jam-center"> so centers better.
+
 = 1.06 =
 
 October 12, 2014
