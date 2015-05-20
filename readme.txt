@@ -42,6 +42,12 @@ There are no settings, just activate the plugin to display the share buttons.
 
 == Changelog ==
 
+= 1.09 =
+
+May 20, 2015
+
+* Properly amended version number.
+
 = 1.08 =
 
 May 20, 2015
